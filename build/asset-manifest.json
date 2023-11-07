@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.1e93fbed.css",
+    "main.js": "/Portfolio/static/js/main.5f4f970f.js",
+    "static/js/787.ae0d8d37.chunk.js": "/Portfolio/static/js/787.ae0d8d37.chunk.js",
+    "static/media/bw.jpeg": "/Portfolio/static/media/bw.4dd27cb33fd4bd8266d9.jpeg",
+    "static/media/foto2.jpeg": "/Portfolio/static/media/foto2.74a82cba437ec67799ca.jpeg",
+    "static/media/cyberpunk-pixel-art-0wsff2qqmw168u7t.jpg": "/Portfolio/static/media/cyberpunk-pixel-art-0wsff2qqmw168u7t.50634e6eb825c34fc85b.jpg",
+    "static/media/3dsmax.png": "/Portfolio/static/media/3dsmax.667a9bfbea86009ebfd2.png",
+    "static/media/casa.jpg": "/Portfolio/static/media/casa.6c8646268f852a24f24c.jpg",
+    "static/media/artstation.png": "/Portfolio/static/media/artstation.c2ce621ebe8f68f78552.png",
+    "static/media/lapida.jpg": "/Portfolio/static/media/lapida.e27b558a15e5fb8366c1.jpg",
+    "static/media/substance.png": "/Portfolio/static/media/substance.920f656c3a7e4500a8be.png",
+    "static/media/reeve.jpg": "/Portfolio/static/media/reeve.d3fc2b1620f59b75ce98.jpg",
+    "static/media/cofre.jpg": "/Portfolio/static/media/cofre.eec2a939557288388d80.jpg",
+    "static/media/robot.jpg": "/Portfolio/static/media/robot.ac6f44ab1dedfcae863e.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.1e93fbed.css.map": "/Portfolio/static/css/main.1e93fbed.css.map",
+    "main.5f4f970f.js.map": "/Portfolio/static/js/main.5f4f970f.js.map",
+    "787.ae0d8d37.chunk.js.map": "/Portfolio/static/js/787.ae0d8d37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e93fbed.css",
+    "static/js/main.5f4f970f.js"
+  ]
+}
