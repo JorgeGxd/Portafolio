@@ -1,0 +1,61 @@
+.SobreMi-container {   
+    max-width: 800px; /* Establece el ancho máximo según tus preferencias */
+    margin: 0 auto; /* Centra el contenedor horizontalmente en la página */
+    text-align: center; /* Centra el contenido horizontalmente */
+    margin-top: 20px;
+    text-decoration: none; /* Quita la subrayado de los enlaces */
+    color: #FFFFFF; /* Cambia el color del texto a blanco (#FFFFFF) */
+    font-weight: bold; /* Puedes aplicar un peso de fuente si lo deseas */
+    border-radius: 10px;
+    padding: 20px;
+  }
+
+  .HabilidadesExperiencia {
+    margin-top: 20px; /* Agrega espacio superior entre las secciones */
+  }
+  
+  .HabilidadesExperiencia h2 {
+    font-size: 30px; /* Tamaño de fuente para el título de la nueva sección */
+    font-weight: bold;
+    margin-bottom: 10px; /* Espacio inferior para el título */
+  }
+  
+  /* SobreMi.css */
+
+
+/* SobreMi.css */
+
+.Software {
+  /* Establece un alto mínimo para el contenedor "Software" (ajusta según tus necesidades) */
+  min-height: 300px;
+  color: #FFFFFF;
+  font-weight: bold;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.software-container {
+  /* Establece la visualización como flexbox para centrar vertical y horizontalmente */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Alinea el texto al centro */
+}
+
+
+.imagen-descripcion {
+  /* Agrega un margen a la derecha para separar las imágenes y descripciones */
+  margin-right: 20px;
+}
+
+.imagen-descripcion img {
+  /* Establece el ancho máximo para las imágenes, si es necesario */
+  max-width: 100px;
+}
+
+p {
+  word-wrap: break-word; /* Rompe las palabras largas y las envuelve al final de la línea */
+}
+

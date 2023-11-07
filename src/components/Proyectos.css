@@ -1,0 +1,59 @@
+/* Proyectos.css */
+
+.Proyectos-container {
+    /* Establece un alto mínimo para el contenedor (ajusta según tus necesidades) */
+    min-height: 300px;
+    text-align: center; /* Alinea el texto al centro */
+    color: #FFFFFF;
+    font-weight: bold;
+  }
+  
+  .proyectos-list {
+    /* Utiliza display: flex para alinear los proyectos en una fila */
+    display: flex;
+    justify-content: center; /* Centra horizontalmente los proyectos */
+  }
+  
+  .proyecto {
+    /* Establece márgenes para separar los proyectos */
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ccc; /* Agrega un borde alrededor de cada proyecto */
+    text-align: center; /* Alinea el texto al centro */
+  }
+  
+  .proyecto a {
+    display: block; /* Convierte el enlace en un bloque para que ocupe todo el ancho */
+    text-decoration: none; /* Quita el subrayado de los enlaces */
+    background-color: #2BF0FB; /* Cambia el color de fondo del enlace */
+    color: #fff; /* Cambia el color del texto del enlace a blanco */
+    padding: 10px 20px; /* Agrega relleno al enlace */
+    margin-top: 10px; /* Agrega espacio superior */
+    border-radius: 5px; /* Agrega bordes redondeados */
+  }
+
+  .proyecto img {
+    max-width: 400px; /* Establece el ancho máximo de la imagen */
+    max-height: 400px; /* Establece la altura máxima de la imagen */
+    display: block; /* Elimina cualquier espacio adicional alrededor de la imagen */
+    margin: 0 auto; /* Centra horizontalmente la imagen en su contenedor */
+  }
+
+  .proyectos-list{
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 10px;
+  }
+
+  .proyectos-list2 {
+    /* Utiliza display: flex para alinear los proyectos en una fila */
+    display: flex;
+    justify-content: center; /* Centra horizontalmente los proyectos */
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  p {
+    word-wrap: break-word; /* Rompe las palabras largas y las envuelve al final de la línea */
+  }

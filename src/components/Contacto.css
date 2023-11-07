@@ -1,0 +1,25 @@
+/* Contacto.css */
+
+.Contacto-container {
+    min-height: 300px;
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: bold;
+    margin-top: 100px;
+  }
+  
+  .redes-sociales {
+    display: flex; /* Utiliza display: flex para alinear las imágenes en una fila */
+    justify-content: center; /* Centra horizontalmente las imágenes */
+    align-items: center; /* Centra verticalmente las imágenes */
+  }
+  
+  .redes-sociales a {
+    margin: 0 10px; /* Agrega espacio horizontal entre las imágenes */
+  }
+  
+  .redes-sociales img {
+    max-width: 50px; /* Establece el ancho máximo de las imágenes */
+    max-height: 50px; /* Establece la altura máxima de las imágenes */
+  }
+  

@@ -1,0 +1,35 @@
+/* Navbar.css */
+
+.nav {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+
+.nav-item {
+  margin-right: 60px;
+}
+
+/* Aplica los estilos :hover directamente a los enlaces */
+.nav-item a {
+  text-decoration: none;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+/* Establece los estilos de :hover para los enlaces */
+.nav-item a:hover {
+  color: #2BF0FB;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 20px;
+  border-radius: 10px;
+  color: white;
+}
+
+  
+  

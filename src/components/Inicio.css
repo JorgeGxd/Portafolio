@@ -1,0 +1,58 @@
+/* Inicio.css */
+
+.inicio-container {
+    max-width: 800px; /* Establece el ancho máximo según tus preferencias */
+    margin: 0 auto; /* Centra el contenedor horizontalmente en la página */
+    text-align: center; /* Centra el contenido horizontalmente */
+    margin-top: 200px;
+    font-size: 30px;
+    /* Define una animación llamada "intermitir" */
+    animation: intermitir 2s ease-in-out infinite; /* Nombre de la animación, duración, temporización y repetición */
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+.profile-photo {
+    display: block; /* Hace que la imagen sea un bloque para centrarla horizontalmente */
+    margin: 0 auto; /* Centra la imagen horizontalmente */
+  }
+
+.profile-photo {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%; /* Aplica un borde redondeado del 50% */
+    width: 150px; /* Ajusta el ancho y alto de la imagen según tus preferencias */
+    height: 150px;
+  }
+
+
+
+body {
+    background-image: url('img/cyberpunk-pixel-art-0wsff2qqmw168u7t.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    /*font-family: Arial, sans-serif;
+    /* Otros estilos de fondo y de la página */
+  }
+
+  p {
+    word-wrap: break-word; /* Rompe las palabras largas y las envuelve al final de la línea */
+  }
+
+  /* Define una animación llamada "intermitir" */
+@keyframes intermitir {
+  0% {
+    color: #2BF0FB; /* Color inicial (blanco) */
+  }
+  50% {
+    color: #980BBF; /* Color intermedio (naranja) */
+  }
+  100% {
+    color: #2BF0FB; /* Color final (blanco) */
+  }
+}
